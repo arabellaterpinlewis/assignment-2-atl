@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Emi"
-      href: Emi.html
     - text: "Arabella"
-      href: arabella.html  
+      href: arabella.html
+    - text: "Emi"
+      href: Emi.html  
