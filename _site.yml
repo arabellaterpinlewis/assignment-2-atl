@@ -1,8 +1,8 @@
 output_dir: "."
 output:
   html_document:
-    theme: flatly
-    highlight: zenburn
+    theme: journal
+    highlight: espresso
     toc: true 
     toc_float: true 
 navbar:
