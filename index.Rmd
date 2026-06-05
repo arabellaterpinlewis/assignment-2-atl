@@ -1,6 +1,6 @@
 ---
-title: "Home Page"
-author: "Genetics lab technicians"
+title: "You have arrived at our website"
+author: "We're the genetics lab techs at TSMRI"
 date: "`r Sys.Date()`"
 output: html_document
 ---
