@@ -1,0 +1,11 @@
+---
+title: "Landing page"
+author: "Genetics lab technicians"
+date: "`r Sys.Date()`"
+output: html_document
+---
+![Greenland shark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVy9BEdcziSjrXsITQ5Hj6HE-wwgtL_iRjyg&s)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
