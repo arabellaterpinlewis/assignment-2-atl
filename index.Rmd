@@ -6,7 +6,8 @@ output: html_document
 ---
 Arabella's Github https://github.com/arabellaterpinlewis 
 Emi's Github https://github.com/emiboydtucker
-![Greenland sharks are dope. Love this guy.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVy9BEdcziSjrXsITQ5Hj6HE-wwgtL_iRjyg&s)
+<br>
+![Greenland sharks are dope](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVy9BEdcziSjrXsITQ5Hj6HE-wwgtL_iRjyg&s)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
