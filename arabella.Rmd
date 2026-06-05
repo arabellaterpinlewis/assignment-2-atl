@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * I'm trying to start a book club with my friend, Danielle. If you're reading this, you should join
 * My dog and cat are both kinda blonde/reddish so they look actually related to each other and me which cracks me up
 
-![Ishka and Dewey](C:\Users\arabella.lewis\Documents\Learning-Github\assignment-2-atl\DeweyandIshka.jpg)
+![Ishka and Dewey](images/deweyandishka.jpg)
 
